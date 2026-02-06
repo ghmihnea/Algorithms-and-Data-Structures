@@ -1,0 +1,12 @@
+p1_compile: hw6p2a.cpp
+			g++ -std=c++11 -Wall -o p1 hw6p2a.cpp
+p1_run: p1
+		./p1
+p2_compile: hw6p2b.cpp
+			g++ -std=c++11 -Wall -o p2 hw6p2b.cpp
+p2_run: p2
+		./p2
+p3_compile: hw6p2c.cpp
+			g++ -std=c++11 -Wall -o p3 hw6p2c.cpp
+p3_run: p3
+		./p3
