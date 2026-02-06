@@ -1,0 +1,8 @@
+p1_compile: hw12p1.cpp
+			g++ -std=c++11 -Wall -o p1 hw12p1.cpp
+p1_run: p1
+		./p1
+p2_compile: hw12p2a.cpp
+			g++ -std=c++11 -Wall -o p2 hw12p2a.cpp
+p2_run: p2
+		./p2
