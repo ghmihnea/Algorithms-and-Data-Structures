@@ -1,0 +1,16 @@
+p1_compile: hw8p1a.cpp
+		g++ -std=c++11 -Wall -o p1 hw8p1a.cpp
+p1_run: p1
+		./p1
+p2_compile: hw8p1b.cpp
+		g++ -std=c++11 -Wall -o p2 hw8p1b.cpp
+p2_run: p2
+		./p2
+p3_compile: hw8p1d.cpp
+		g++ -std=c++11 -Wall -o p3 hw8p1d.cpp
+p3_run: p3
+		./p3
+p4_compile: hw8p2a.cpp
+		g++ -std=c++11 -Wall -o p4 hw8p2a.cpp
+p4_run: p4
+		./p4
