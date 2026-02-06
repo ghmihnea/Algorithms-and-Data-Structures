@@ -1,0 +1,4 @@
+p1_compile: h10p1.cpp
+			g++ -std=c++11 -Wall -o p1 h10p1.cpp
+p1_run: p1
+		./p1
