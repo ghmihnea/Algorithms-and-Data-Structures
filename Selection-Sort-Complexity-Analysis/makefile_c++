@@ -1,0 +1,12 @@
+h3p2a_compile: h3p2a.cpp
+			   g++ -std=c++11 -Wall -o p1 h3p2a.cpp
+h3p2a_run: p1 
+		   ./p1
+h3p2c_compile: h3p2c.cpp
+			   g++ -std=c++11 -Wall -o p2 h3p2c.cpp
+h3p2c_run: p2
+		   ./p2
+h3p2d_compile: h3p2d.cpp
+			   g++ -std=c++11 -Wall -o p3 h3p2d.cpp
+h3p2d_run: p3
+           /.p3
