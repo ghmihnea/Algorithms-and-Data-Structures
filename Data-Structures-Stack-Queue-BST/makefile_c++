@@ -1,0 +1,16 @@
+p1_compile: hw9p1a.cpp
+		g++ -std=c++11 -Wall -o p1 hw9p1a.cpp
+p1_run: p1
+		./p1
+p2_compile: hw9p1b.cpp
+		g++ -std=c++11 -Wall -o p2 hw9p1b.cpp
+p2_run: p2
+		./p2
+p3_compile: hw9p2b.cpp
+		g++ -std=c++11 -Wall -o p3 hw9p2b.cpp
+p3_run: p3
+		./p3
+p4_compile: hw9p2c.cpp
+		g++ -std=c++11 -Wall -o p4 hw9p2c.cpp
+p4_run: p4
+		./p4
