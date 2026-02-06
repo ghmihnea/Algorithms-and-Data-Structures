@@ -1,0 +1,18 @@
+
+ results for n : 1
+1 0.005 0.001 0.002 0
+
+ results for n : 10
+10 0.002 0 0 0.001
+
+ results for n : 20
+20 0.089 0.001 0.001 0
+
+ results for n : 30
+30 9.889 0 0.002 0.001
+
+ results for n : 40
+40 475.881 0 0.001 0.001
+
+ results for n : 50
+50 57366.3 0 0 0.002
